@@ -1,0 +1,23 @@
+.color-banner{
+	color: #86E3CE;
+}
+
+.color-nav{
+	background-color: #255E73 !important;
+}
+
+.border-color-card{
+	border-color: grey !important;
+}
+
+.image-card {
+	background-image: url(./assets/book.jpg)
+}
+.color-text{
+	color: #255E73 !important;
+}
+
+.cad-inf{
+	width: 900px;
+	height: 500px;
+}
